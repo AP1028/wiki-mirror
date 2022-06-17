@@ -1,5 +1,9 @@
 # 戴森球
 
+[返回Wiki Mirror主页](https://ap1028.github.io/wiki-mirror/)
+
+[Wikipedia链接](https://en.wikipedia.org/wiki/Dyson_sphere)
+
 <center>    <img style=" 缩放比例; border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="./File/A_Dyson_Swarm_Superstructure_(21983905140).png">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;         display: inline-block; color: #999; padding: 2px;">对使用固态戴森环的戴森球的3D渲染</div> </center>
 
 **戴森球**是一个假设的[巨型结构](https://en.wikipedia.org/wiki/Megastructure)，它完全包围一颗[恒星](https://en.wikipedia.org/wiki/Star)并捕获其大部分[太阳能](https://en.wikipedia.org/wiki/Solar_power)输出。这个概念是一个[思想实验](https://en.wikipedia.org/wiki/Thought_experiment)，试图解释一个[进行太空飞行](https://en.wikipedia.org/wiki/Spacefaring)的文明在能量需求超过了从母星资源所能产生的能量时将如何满足其能量需求。由于恒星的能量辐射只有一小部分到达围绕其运转[行星](https://en.wikipedia.org/wiki/Planet)的表面，围绕恒星的结构将使[文明](https://en.wikipedia.org/wiki/Civilization)能够收获更多的能量。
@@ -76,7 +80,7 @@
 
 戴森云也有其劣势。[轨道力学](https://zh.wikipedia.org/wiki/航天动力学)规律决定了戴森云的轨道排布将会极度复杂。最简单的排布方式莫过于戴森环，在这种布置中，所有太阳能收集器共享同一个轨道。复杂的多环模式可以拦截到更多恒星能量输出，但环轨道重叠时会造成周期性的[食](https://zh.wikipedia.org/wiki/食_(天文現象))。[[11\]](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-11)另外潜在的问题是，增加轨道结构会加强对其他结构的[摄动](https://zh.wikipedia.org/wiki/攝動)，从而降低轨道的稳定性。
 
-[下面](https://en.wikipedia.org/wiki/Dyson_sphere#Search_for_megastructures)会继续提到，这样一个收集器“云”将会改变恒星系统向宇宙发射的光线。然而，与恒星的整体自然发射的光谱相比，这种改变很可能太小，以至于地球上的天文学家无法观察到它。[[2](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-search-2)]
+[下文](#寻找巨型结构)会继续提到，这样一个收集器“云”将会改变恒星系统向宇宙发射的光线。然而，与恒星的整体自然发射的光谱相比，这种改变很可能太小，以至于地球上的天文学家无法观察到它。[[2](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-search-2)]
 
 ### <span id="戴森泡">戴森泡</span>
 
@@ -101,7 +105,7 @@
 
 通过[分子制造](https://en.wikipedia.org/wiki/Molecular_manufacturing)技术网格化的超轻[碳纳米管](https://en.wikipedia.org/wiki/Carbon_nanotube)的密度在1.3g/m<sup>2</sup>到1.4g/m<sup>2</sup>之间。当一个文明准备好使用这项技术时，[碳纳米管](https://en.wikipedia.org/wiki/Carbon_nanotube)的制造工艺可能已经优化到足以使它们的密度低于所需的0.7g/m<sup>2</sup>，带有[缆索](https://en.wikipedia.org/wiki/Rigging)的太阳帆密度可以保持在0.3克/平方米左右 (“[自旋稳定](https://en.wikipedia.org/wiki/Solar_sail#Investigated_sail_designs)”的太阳帆需要极小的附加重量用作缆索）。如果太阳帆能够按照此[面积密度](https://en.wikipedia.org/wiki/Areal_density)制造，则类似于[L5协会](https://zh.wikipedia.org/wiki/拉格朗日点#L5)中提及的[奥尼尔筒](https://en.wikipedia.org/wiki/O'Neill_cylinder)的太空定居点——面积达500平方千米，可居住一百万居民，重达3×10<sup>9</sup>千克——就能通过直径3000千米的圆形太阳帆来维持。这种组装定居点总重为5.4×10<sup>9</sup>千克。[[19](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-19)]该结构的直径大致等于[香港](https://zh.wikipedia.org/wiki/香港)到[哈尔滨](https://zh.wikipedia.org/wiki/哈尔滨市)的距离，只比[木星](https://zh.wikipedia.org/wiki/木星)的卫星[木卫二](https://zh.wikipedia.org/wiki/木卫二)稍小，但质量却比多数小行星小得多。建造如此巨大质量的太阳帆定居点将耗费极大的人力物力，并且从材料科学上来说还有诸多不确定因素，但比起其他类型的戴森球变体所需要的技术和材料来说却是切合实际多了。
 
-理论上，如果造出并围绕恒星部署了足够数量的太阳帆卫星，那么就能组成一个非固定的戴森泡。这种结构既没有受到巨大压力影响的缺点，也不必达到固定结构的戴森壳所需要的超大质量。但这种壳体有着跟固定结构的戴森壳一样的光学和热力学特性，可以被其他宇宙文明通过类似的方式侦测到。（见[下文](https://en.wikipedia.org/wiki/Dyson_sphere#Search_for_extra-terrestrial_intelligence)）。
+理论上，如果造出并围绕恒星部署了足够数量的太阳帆卫星，那么就能组成一个非固定的戴森泡。这种结构既没有受到巨大压力影响的缺点，也不必达到固定结构的戴森壳所需要的超大质量。但这种壳体有着跟固定结构的戴森壳一样的光学和热力学特性，可以被其他宇宙文明通过类似的方式侦测到。（见[下文](#寻找巨型结构)）。
 
 ### <span id="戴森壳">戴森壳</span>
 
@@ -160,7 +164,7 @@
 
 [SETI](https://zh.wikipedia.org/wiki/SETI)在他们的[类太阳恒星](https://zh.wikipedia.org/wiki/類太陽恆星)“重红外”光谱搜索中使用了该假设。直到2005年，[费米国家实验室](https://zh.wikipedia.org/wiki/费米国家实验室)通过分析[红外天文卫星(IRAS)](https://zh.wikipedia.org/wiki/紅外線天文衛星)卫星获取的数据对此类光谱进行了持续调查。[[31](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-31)] [*[需要完整引用](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#What_information_to_include)*] [[32\]](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-32)将众多红外源之一识别为戴森球需要改进的技术来区分戴森球和自然红外源。[[33](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-33)]费米实验室发现了 17 个潜在的“模棱两可”的候选对象，其中四个被列为为“有趣但仍然值得怀疑”。[[34](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-34)] [*[需要完整引用](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#What_information_to_include)*] 其他对戴森球的搜索尝试也发现了若干候选对象，但这些候选对象未经证实。[[35](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-35)] [[36](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-36)] [[37](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-econ2015-37)]
 
-2015 年 10 月 14 日，[行星猎人](https://en.wikipedia.org/wiki/Planet_Hunters)的平民科学家发现了由[开普勒太空望远镜](https://en.wikipedia.org/wiki/Kepler_Space_Telescope)捕获的恒星[KIC 8462852](https://en.wikipedia.org/wiki/KIC_8462852)的异常光波动。这颗星被最初研究的主要作者[Tabetha S. Boyajian](https://en.wikipedia.org/wiki/Tabetha_S._Boyajian)昵称为“Tabby's Star” 。这一现象引发了人们对戴森球可能已经被发现的猜测。[[38](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-ATL-20151013-38)] [[39](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-IND-20151015-39)]根据直至2017 年底的数据的进一步分析表明和光波长相关的变暗现象和星际尘埃吻合而与如外星巨型结构等不透明物体不吻合，因为后者将平等地阻挡所有波长的光。[[40](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-AXV-20180102-40)] [[41](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-NatGeoJan3-41)]
+2015年10月14日，[行星猎人](https://en.wikipedia.org/wiki/Planet_Hunters)的平民科学家发现了由[开普勒太空望远镜](https://en.wikipedia.org/wiki/Kepler_Space_Telescope)捕获的恒星[KIC 8462852](https://en.wikipedia.org/wiki/KIC_8462852)的异常光波动。这颗星被最初研究的主要作者[Tabetha S. Boyajian](https://en.wikipedia.org/wiki/Tabetha_S._Boyajian)昵称为“Tabby's Star” 。这一现象引发了人们对戴森球可能已经被发现的猜测。[[38](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-ATL-20151013-38)] [[39](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-IND-20151015-39)]根据直至2017 年底的数据的进一步分析表明和光波长相关的变暗现象和星际尘埃吻合而与如外星巨型结构等不透明物体不吻合，因为后者将平等地阻挡所有波长的光。[[40](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-AXV-20180102-40)] [[41](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-NatGeoJan3-41)]
 
 ## <span id="小说">小说</span>
 
@@ -185,7 +189,7 @@
 - [恒星工程](https://en.wikipedia.org/wiki/Stellar_engineering) —— 假想的对恒星人工改造
 - [Tabby's Star](https://en.wikipedia.org/wiki/Tabby's_Star) —— 以不寻常的变暗事件而著称的恒星
 - [张拉整体](https://en.wikipedia.org/wiki/Tensegrity) —— 一种基于在连续张力网络内部应用受压构建的结构原理
-- [地球化](https://en.wikipedia.org/wiki/Terraforming) ——假设的行星工程过程
+- [外星环境地球化](https://en.wikipedia.org/wiki/Terraforming) ——假设的行星工程过程
 
 ## <span id="参考文献">参考文献</span>
 
