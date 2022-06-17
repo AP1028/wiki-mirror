@@ -8,7 +8,7 @@
 
 **戴森球**是一个假设的[巨型结构](https://en.wikipedia.org/wiki/Megastructure)，它完全包围一颗[恒星](https://en.wikipedia.org/wiki/Star)并捕获其大部分[太阳能](https://en.wikipedia.org/wiki/Solar_power)输出。这个概念是一个[思想实验](https://en.wikipedia.org/wiki/Thought_experiment)，试图解释一个[进行太空飞行](https://en.wikipedia.org/wiki/Spacefaring)的文明在能量需求超过了从母星资源所能产生的能量时将如何满足其能量需求。由于恒星的能量辐射只有一小部分到达围绕其运转[行星](https://en.wikipedia.org/wiki/Planet)的表面，围绕恒星的结构将使[文明](https://en.wikipedia.org/wiki/Civilization)能够收获更多的能量。
 
-在当代对该结构的第一个描述是奥拉夫·斯台普登（ [Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)）在他的科幻小说《造星者》（*[Star Maker](https://en.wikipedia.org/wiki/Star_Maker)*）（1937 年）中描述的“每个太阳系……都被一层光陷阱包围，它聚焦逸出的太阳能并将其由智慧生命利用”。[[1](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-1)]这个概念后来被[弗里曼·戴森](https://en.wikipedia.org/wiki/Freeman_Dyson)在他 1960 年的论文“人工恒星红外辐射](https://en.wikipedia.org/wiki/Infrared_Radiation)源的搜寻（Search for Artificial Stellar Sources of Infra-Red Radiation）”中推广。[[2\]](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-search-2)戴森推测，这种结构将是技术文明不断升级的能源需求的必然结果，也是其长期生存的必要条件。他提出寻找这样的结构可能使我们发现先进、智能的[外星生命](https://en.wikipedia.org/wiki/Extraterrestrial_life)。不同类型的戴森球和它们的能量收集能力将对应于在[卡尔达肖夫指数](https://zh.wikipedia.org/wiki/卡尔达肖夫指数)水平上的技术进步。
+在当代对该结构的第一个描述是[奥拉夫·斯台普登](https://en.wikipedia.org/wiki/Olaf_Stapledon)在他1937年发布的科幻小说[《造星者》](https://en.wikipedia.org/wiki/Star_Maker)中描述的“每个太阳系……都被一层光的陷阱包围，它聚焦逸出的太阳能并将其由智慧生命利用”。[[1](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-1)]这个概念后来被[弗里曼·戴森](https://en.wikipedia.org/wiki/Freeman_Dyson)在他 1960 年的论文“人工恒星[红外辐射](https://en.wikipedia.org/wiki/Infrared_Radiation)源的搜寻（Search for Artificial Stellar Sources of Infra-Red Radiation）”中推广。[[2](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-search-2)]戴森推测，这种结构将是技术文明不断升级的能源需求的必然结果，也是其长期生存的必要条件。他提出寻找这样的结构可能使我们发现先进、智能的[外星生命](https://en.wikipedia.org/wiki/Extraterrestrial_life)。不同类型的戴森球和它们的能量收集能力将对应于在[卡尔达肖夫指数](https://zh.wikipedia.org/wiki/卡尔达肖夫指数)水平上的技术进步。
 
 从那时起，其他涉及通过建造人工结构或用一系列结构包围恒星的变体设计在[探索性工程](https://en.wikipedia.org/wiki/Exploratory_engineering)中被提出，并以“戴森球”的名字出现诸多[科幻小说](https://en.wikipedia.org/wiki/Science_fiction)中。后续的设想认为戴森球上不仅有[太阳能](https://zh.wikipedia.org/wiki/太阳能)电站，还有人类[殖民地](https://zh.wikipedia.org/wiki/殖民地)和[工业](https://zh.wikipedia.org/wiki/第二产业)基地存在。大多数虚构的构想都描述了一个包裹着恒星的固体[物质外壳](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_shell)，戴森自己认为这是这个设想最不可行的变体。2013 年 5 月，在圣地亚哥的星际飞船世纪研讨会上，戴森重复了他的评论，他希望这个概念没有以他的名字命名。[[3](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-3)]
 
@@ -50,7 +50,7 @@
 
 ## <span id="可行性">可行性</span>
 
-虽然这样的巨型结构在理论上是可能的，但目前建造一个稳定的戴森球系统远远超出人类当前的工业生产能力。建造、传输能量和维护戴森球所需的航天器数量远远超出人类当前的工业生产能力。[George Dvorsky](https://en.wikipedia.org/wiki/George_Dvorsky)提倡在相对短期内使用[自我复制机器人](https://en.wikipedia.org/wiki/Self-replicating_robots)来克服这一限制。[[6](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-dvorsky2012-6)]一些人提议将这样的栖息地围绕[白矮星](https://en.wikipedia.org/wiki/White_dwarf#Habitability)[[7\]](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-7)甚至[脉冲星](https://en.wikipedia.org/wiki/Pulsar)建造。[[8](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-8)]
+虽然这样的巨型结构在理论上是可能的，但目前建造一个稳定的戴森球系统远远超出人类当前的工业生产能力。建造、传输能量和维护戴森球所需的航天器数量远远超出人类当前的工业生产能力。[George Dvorsky](https://en.wikipedia.org/wiki/George_Dvorsky)提倡在相对短期内使用[自我复制机器人](https://en.wikipedia.org/wiki/Self-replicating_robots)来克服这一限制。[[6](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-dvorsky2012-6)]一些人提议将这样的栖息地围绕[白矮星](https://en.wikipedia.org/wiki/White_dwarf#Habitability)[[7](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-7)]甚至[脉冲星](https://en.wikipedia.org/wiki/Pulsar)建造。[[8](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-8)]
 
 ## <span id="变体">变体</span>
 
@@ -170,7 +170,7 @@
 
 主条目：[流行文化中的戴森球](https://en.wikipedia.org/wiki/Dyson_spheres_in_popular_culture)
 
-戴森球在提出以后就经常在[科幻](https://zh.wikipedia.org/wiki/科幻)或其他虚构作品中出现[[42](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-42)] [[43](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-43)。在这些作品中，戴森球往往被描述成“戴森壳”的形式，而建造该结构所面对的引力和工程难题则常常被忽略。[[20](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-what-20)]
+戴森球在提出以后就经常在[科幻](https://zh.wikipedia.org/wiki/科幻)或其他虚构作品中出现[[42](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-42)] [[43](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-43)]。在这些作品中，戴森球往往被描述成“戴森壳”的形式，而建造该结构所面对的引力和工程难题则常常被忽略。[[20](https://en.wikipedia.org/wiki/Dyson_sphere#cite_note-what-20)]
 
 ## <span id="参见">参见</span>
 
